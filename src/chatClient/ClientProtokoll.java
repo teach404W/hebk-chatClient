@@ -16,19 +16,19 @@ public class ClientProtokoll {
     }
     
     public static void abmelden(ChatClient pChatClient, String pNachricht){  
-        pChatClient.send("Abmelden:"+pNachricht);
+        //TODO
     }
 
     public static void senden(ChatClient pChatClient, String pNachricht){  
-        pChatClient.send("Senden:"+pNachricht);
+        //TODO
     }
     
      public static void fluestern(ChatClient pChatClient, String pNachricht){  
-        pChatClient.send(pNachricht);
+        //TODO
     }
      
       public static void list(ChatClient pChatClient){  
-        pChatClient.send("List");
+        //TODO
     }
     
     public static void trennen(ChatClient pChatClient){  
